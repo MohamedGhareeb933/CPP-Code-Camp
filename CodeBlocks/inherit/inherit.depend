@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1492305867 source:c:\users\m\documents\codeblocks\inherit\deliverd.cpp
+	<iostream>
+	"Base.h"
+	"Deliverd.h"
+
+1492305738 c:\users\m\documents\codeblocks\inherit\base.h
+
+1492305867 c:\users\m\documents\codeblocks\inherit\deliverd.h
+
+1492305365 source:c:\users\m\documents\codeblocks\inherit\base.cpp
+	<iostream>
+	"Base.h"
+	"Deliverd.h"
+
+1492305738 source:c:\users\m\documents\codeblocks\inherit\main.cpp
+	<iostream>
+	"Base.h"
+	"Deliverd.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508765415 source:c:\users\m\documents\codeblocks\iterators\main.cpp
+	<iostream>
+	<map>
+	<iterator>
+

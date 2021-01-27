@@ -1,0 +1,6 @@
+Fruit 30
+Ninja -30
+Candy 60
+Monster -60
+Potion 90
+Dragon -90

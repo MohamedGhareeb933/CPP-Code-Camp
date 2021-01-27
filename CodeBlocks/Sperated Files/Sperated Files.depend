@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491599250 source:c:\users\m\documents\codeblocks\sperated files\main.cpp
+	<iostream>
+	"MyClass.h"
+
+1491599385 c:\users\m\documents\codeblocks\sperated files\myclass.h
+
+1491599250 source:c:\users\m\documents\codeblocks\sperated files\myclass.cpp
+	<iostream>
+	"MyClass.h"
+

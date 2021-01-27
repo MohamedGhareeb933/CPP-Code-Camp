@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1492584585 source:c:\users\m\documents\codeblocks\inhirit\base .cpp
+	<iostream>
+	"Base .h"
+	"Drived.h"
+
+1492584585 c:\users\m\documents\codeblocks\inhirit\base .h
+
+1492584585 c:\users\m\documents\codeblocks\inhirit\drived.h
+
+1492584584 source:c:\users\m\documents\codeblocks\inhirit\main.cpp
+	<iostream>
+	"Base .h"
+	"Drived.h"
+
+1492584626 source:c:\users\m\documents\codeblocks\inhirit\drived.cpp
+	<iostream>
+	"Base .h"
+	"Drived.h"
+

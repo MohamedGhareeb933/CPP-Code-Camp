@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1514048801 source:c:\users\m\documents\codeblocks\compostion\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1514048579 c:\users\m\documents\codeblocks\compostion\birthday.h
+
+1514049583 source:c:\users\m\documents\codeblocks\compostion\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1514049223 c:\users\m\documents\codeblocks\compostion\people.h
+	<iostream>
+	"Birthday.h"
+
+1514049507 source:c:\users\m\documents\codeblocks\compostion\people.cpp
+	"People.h"
+	<iostream>
+	"Birthday.h"
+

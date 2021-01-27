@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1495412004 source:c:\users\m\documents\codeblocks\combisition 2\birthday.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1495412004 c:\users\m\documents\codeblocks\combisition 2\birthday.h
+
+1495412004 c:\users\m\documents\codeblocks\combisition 2\people.h
+	<iostream>
+	"Birthday.h"
+
+1495412004 source:c:\users\m\documents\codeblocks\combisition 2\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1495412099 source:c:\users\m\documents\codeblocks\combisition 2\people.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+

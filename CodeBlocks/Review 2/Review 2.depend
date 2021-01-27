@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495158529 source:c:\users\m\documents\codeblocks\review 2\main.cpp
+	<iostream>
+
+1495157044 c:\users\m\documents\codeblocks\review 2\printname.h
+	<iostream>
+
+1495156944 source:c:\users\m\documents\codeblocks\review 2\printname.cpp
+	"PrintName.h"
+	<iostream>
+

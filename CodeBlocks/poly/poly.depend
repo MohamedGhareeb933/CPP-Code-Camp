@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1495558527 source:c:\users\m\documents\codeblocks\poly\enemy.cpp
+	<iostream>
+	"Enemy.h"
+	"Ninja.h"
+	"Monster.h"
+
+1495558527 c:\users\m\documents\codeblocks\poly\enemy.h
+
+1495558527 c:\users\m\documents\codeblocks\poly\ninja.h
+
+1495558535 c:\users\m\documents\codeblocks\poly\monster.h
+
+1495558606 source:c:\users\m\documents\codeblocks\poly\main.cpp
+	<iostream>
+	"Enemy.h"
+	"Ninja.h"
+	"Monster.h"
+

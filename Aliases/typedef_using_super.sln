@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "typedef_using_super", "typedef_using_super\typedef_using_super.vcxproj", "{C119DB98-672A-480D-8F4E-976AC1DD3918}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7690957A-288F-43FE-97B3-3011BE6F3FD3}"
+	ProjectSection(SolutionItems) = preProject
+		typedef_using_super\Main.cpp = typedef_using_super\Main.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C119DB98-672A-480D-8F4E-976AC1DD3918}.Debug|x64.ActiveCfg = Debug|x64
+		{C119DB98-672A-480D-8F4E-976AC1DD3918}.Debug|x64.Build.0 = Debug|x64
+		{C119DB98-672A-480D-8F4E-976AC1DD3918}.Debug|x86.ActiveCfg = Debug|Win32
+		{C119DB98-672A-480D-8F4E-976AC1DD3918}.Debug|x86.Build.0 = Debug|Win32
+		{C119DB98-672A-480D-8F4E-976AC1DD3918}.Release|x64.ActiveCfg = Release|x64
+		{C119DB98-672A-480D-8F4E-976AC1DD3918}.Release|x64.Build.0 = Release|x64
+		{C119DB98-672A-480D-8F4E-976AC1DD3918}.Release|x86.ActiveCfg = Release|Win32
+		{C119DB98-672A-480D-8F4E-976AC1DD3918}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A5C48AE-0834-49D9-8FE9-64819A3EF299}
+	EndGlobalSection
+EndGlobal

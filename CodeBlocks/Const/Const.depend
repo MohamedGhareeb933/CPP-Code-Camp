@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495387786 source:c:\users\m\documents\codeblocks\const\main.cpp
+	<iostream>
+	"sharppy.h"
+
+1495388427 c:\users\m\documents\codeblocks\const\sharppy.h
+
+1495388052 source:c:\users\m\documents\codeblocks\const\sharppy.cpp
+	<iostream>
+	"sharppy.h"
+
