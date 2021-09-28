@@ -26,7 +26,7 @@ private:
 
 
 template<typename T, typename U>
-Iterator<T, U>::Iterator(U* Conatiner) :theContainer(Conatiner)
+inline Iterator<T, U>::Iterator(U* Conatiner) :theContainer(Conatiner)
 {
 	itr = theContainer->dataList.begin();
 }
